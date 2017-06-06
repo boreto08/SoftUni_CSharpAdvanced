@@ -1,1 +1,2 @@
 D:\SoftUniFundamentals\SistemSplit\SistemSplit\bin\Debug\SistemSplit.exe.config
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\bin\Debug\SistemSplit.exe.config

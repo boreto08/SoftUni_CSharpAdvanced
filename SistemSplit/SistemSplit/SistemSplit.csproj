@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExpressSoftware.cs" />
+    <Compile Include="Hardware.cs" />
+    <Compile Include="HeavyHardware.cs" />
+    <Compile Include="LightSoftware.cs" />
+    <Compile Include="PowerHardware.cs" />
+    <Compile Include="Software.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
