@@ -5,6 +5,7 @@
         public LightSoftware(string name, int capacityConsumption, int memoryConsumption) 
             : base(name, capacityConsumption, memoryConsumption)
         {
+            Type = "Light";
             this.CapacityConsumption = CapacityConsumption + (CapacityConsumption * 50 / 100);
             this.MemoryConsumption = MemoryConsumption - (MemoryConsumption * 50 / 100);
         }

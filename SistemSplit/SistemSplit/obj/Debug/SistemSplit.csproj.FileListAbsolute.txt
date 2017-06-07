@@ -1,2 +1,7 @@
 D:\SoftUniFundamentals\SistemSplit\SistemSplit\bin\Debug\SistemSplit.exe.config
 D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\bin\Debug\SistemSplit.exe.config
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\obj\Debug\SistemSplit.csprojResolveAssemblyReference.cache
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\bin\Debug\SistemSplit.exe
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\bin\Debug\SistemSplit.pdb
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\obj\Debug\SistemSplit.exe
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\SistemSplit\SistemSplit\obj\Debug\SistemSplit.pdb

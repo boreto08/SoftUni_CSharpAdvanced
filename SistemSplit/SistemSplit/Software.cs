@@ -2,6 +2,7 @@
 {
     public abstract class Software
     {
+        private string type;
         private string name;
         private int capacityConsumption;
         private int memoryConsumption;
@@ -13,6 +14,15 @@
             this.capacityConsumption = capacityConsumption;
             this.memoryConsumption = memoryConsumption;
         }
+
+
+
+        public string Type
+        {
+            get { return this.type; }
+            protected set { this.type = value; }
+        }
+
 
         public string Name
         {
