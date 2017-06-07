@@ -6,11 +6,6 @@ namespace SistemSplit
 {
     class Startup
     {
-        public static int totalMemory = 0;
-        public static int totalCapacity = 0;
-
-        public static int totalMemoryTaken = 0;
-        public static int totalCapacityTaken = 0;
 
         static void Main()
         {
