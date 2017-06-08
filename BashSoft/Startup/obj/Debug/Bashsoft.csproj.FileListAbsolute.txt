@@ -1,0 +1,9 @@
+D:\SoftUniFundamentals\BashSoft\Startup\bin\Debug\Startup.exe.config
+D:\SoftUniFundamentals\BashSoft\Startup\bin\Debug\Startup.exe
+D:\SoftUniFundamentals\BashSoft\Startup\bin\Debug\Startup.pdb
+D:\SoftUniFundamentals\BashSoft\Startup\obj\Debug\Bashsoft.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\BashSoft\Startup\obj\Debug\Startup.exe
+D:\SoftUniFundamentals\BashSoft\Startup\obj\Debug\Startup.pdb
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\BashSoft-master\Startup\bin\Debug\Startup.exe.config
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\BashSoft-master\Startup\obj\Debug\Startup.exe
+D:\SOFTUNI_C#_ADVANCED_REPO\SoftUni_CSharpAdvanced\BashSoft-master\Startup\obj\Debug\Startup.pdb
