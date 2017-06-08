@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.ReverseNumbers", "StacksAndQueue_Exercise\Problem01.ReverseNumbers.csproj", "{D9B1D759-2D92-44B9-84AD-66A6882E9A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.BasicStackOperations", "Problem02.BasicStackOperations\Problem02.BasicStackOperations.csproj", "{2FCA404A-A7FF-4D7F-801F-1FFBB8BD60FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B1D759-2D92-44B9-84AD-66A6882E9A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B1D759-2D92-44B9-84AD-66A6882E9A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B1D759-2D92-44B9-84AD-66A6882E9A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B1D759-2D92-44B9-84AD-66A6882E9A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCA404A-A7FF-4D7F-801F-1FFBB8BD60FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCA404A-A7FF-4D7F-801F-1FFBB8BD60FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCA404A-A7FF-4D7F-801F-1FFBB8BD60FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCA404A-A7FF-4D7F-801F-1FFBB8BD60FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

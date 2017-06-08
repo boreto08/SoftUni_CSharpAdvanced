@@ -1,0 +1,1 @@
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\bin\Debug\StacksAndQueue_Exercise.exe.config

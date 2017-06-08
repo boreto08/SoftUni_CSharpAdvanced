@@ -1,0 +1,6 @@
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\bin\Debug\StacksAndQueue_Exercise.exe.config
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\bin\Debug\StacksAndQueue_Exercise.exe
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\bin\Debug\StacksAndQueue_Exercise.pdb
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\obj\Debug\ReverseNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\obj\Debug\StacksAndQueue_Exercise.exe
+D:\SOFTUNI_C#_ADVANCED_REPO\StacksAndQueue_Exercise\StacksAndQueue_Exercise\obj\Debug\StacksAndQueue_Exercise.pdb
