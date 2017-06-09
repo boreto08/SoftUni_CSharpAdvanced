@@ -1,6 +1,7 @@
 ﻿namespace Startup
 {
     using System;
+    using System.Collections.Generic;
     public class OutputWriter
     {
         public static void WriteMessage(string message)
@@ -24,6 +25,11 @@
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(message);
             Console.ForegroundColor = currentColor;
+        }
+
+        public static void PrintStudent(KeyValuePair<string, List<int>> student)
+        {
+            OutputWriter.WriteMessageOnNewLine(string.Format($"{student.Key} - {string.Join(", ", student.Value)}"));
         }
     }
 }
