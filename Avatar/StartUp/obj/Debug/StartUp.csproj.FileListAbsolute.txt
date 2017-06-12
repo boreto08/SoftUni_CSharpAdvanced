@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\Avatar\StartUp\bin\Debug\StartUp.exe.config
+D:\SoftUniFundamentals\Avatar\StartUp\bin\Debug\StartUp.exe
+D:\SoftUniFundamentals\Avatar\StartUp\bin\Debug\StartUp.pdb
+D:\SoftUniFundamentals\Avatar\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\Avatar\StartUp\obj\Debug\StartUp.exe
+D:\SoftUniFundamentals\Avatar\StartUp\obj\Debug\StartUp.pdb

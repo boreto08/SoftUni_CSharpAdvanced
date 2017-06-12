@@ -1,0 +1,6 @@
+D:\SoftUniFundamentals\PawInc\Startup\bin\Debug\Startup.exe.config
+D:\SoftUniFundamentals\PawInc\Startup\bin\Debug\Startup.exe
+D:\SoftUniFundamentals\PawInc\Startup\bin\Debug\Startup.pdb
+D:\SoftUniFundamentals\PawInc\Startup\obj\Debug\Startup.csprojResolveAssemblyReference.cache
+D:\SoftUniFundamentals\PawInc\Startup\obj\Debug\Startup.exe
+D:\SoftUniFundamentals\PawInc\Startup\obj\Debug\Startup.pdb
