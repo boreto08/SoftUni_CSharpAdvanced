@@ -44,7 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Car.cs" />
+    <Compile Include="CarManager.cs" />
+    <Compile Include="Garage.cs" />
     <Compile Include="PerformanceCar.cs" />
+    <Compile Include="Race.cs" />
     <Compile Include="ShowCar.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
