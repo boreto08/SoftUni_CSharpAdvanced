@@ -28,6 +28,11 @@ class BasicStackOperations
 
         int smallestNum = int.MaxValue;
 
+        if (stackNums.Count == 0)
+        {
+            smallestNum = 0;
+        }
+
         while (stackNums.Count != 0)
         {
             int currNum = stackNums.Pop();
